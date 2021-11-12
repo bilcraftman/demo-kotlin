@@ -8,8 +8,7 @@ Demonstrate how we can write same application with less code and less dependenci
  - Use existing spring boot REST app with DB, lombok and mapstruct.
    - With Vavr https://github.com/becoming/modern-spring-boot
    - Classic Java https://github.com/becoming/modern-spring-boot/tree/feature/classic-no-vavr
- - This repo demonstrates how to do java without and with Vavr.
- - Add Kotlin support.
+ - Analyze an equivalent Kotlin based app:
    - Discuss controllers.
    - Discuss repositories.
    - Discuss entities.
