@@ -5,7 +5,7 @@ Demonstrate how we can write same application with less code and less dependenci
 - http://wiki-it/display/DevCommunity/Demo+Kotlin
 
 ## Steps
- - Use existing spring boot REST app with DB, lombok and mapstruct.
+ - Take a look at one existing spring boot REST app with DB, lombok and mapstruct.
    - With Vavr https://github.com/becoming/modern-spring-boot
    - Classic Java https://github.com/becoming/modern-spring-boot/tree/feature/classic-no-vavr
  - Analyze an equivalent Kotlin based app:
